@@ -733,7 +733,7 @@ Subagent có quyền truy cập các công cụ (message, web_search, v.v.) và 
 | Nhà cung cấp | Mục đích | Lấy API Key |
 | --- | --- | --- |
 | `gemini` | LLM (Gemini trực tiếp) | [aistudio.google.com](https://aistudio.google.com) |
-| `zhipu` | LLM (Zhipu trực tiếp) | [bigmodel.cn](bigmodel.cn) |
+| `zhipu` | LLM (Zhipu trực tiếp) | [bigmodel.cn](https://bigmodel.cn) |
 | `openrouter` (Đang thử nghiệm) | LLM (khuyên dùng, truy cập mọi model) | [openrouter.ai](https://openrouter.ai) |
 | `anthropic` (Đang thử nghiệm) | LLM (Claude trực tiếp) | [console.anthropic.com](https://console.anthropic.com) |
 | `openai` (Đang thử nghiệm) | LLM (GPT trực tiếp) | [platform.openai.com](https://platform.openai.com) |

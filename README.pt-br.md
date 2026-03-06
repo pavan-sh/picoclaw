@@ -759,7 +759,7 @@ O subagente tem acesso às ferramentas (message, web_search, etc.) e pode se com
 | Provedor | Finalidade | Obter API Key |
 | --- | --- | --- |
 | `gemini` | LLM (Gemini direto) | [aistudio.google.com](https://aistudio.google.com) |
-| `zhipu` | LLM (Zhipu direto) | [bigmodel.cn](bigmodel.cn) |
+| `zhipu` | LLM (Zhipu direto) | [bigmodel.cn](https://bigmodel.cn) |
 | `openrouter` (Em teste) | LLM (recomendado, acesso a todos os modelos) | [openrouter.ai](https://openrouter.ai) |
 | `anthropic` (Em teste) | LLM (Claude direto) | [console.anthropic.com](https://console.anthropic.com) |
 | `openai` (Em teste) | LLM (GPT direto) | [platform.openai.com](https://platform.openai.com) |
