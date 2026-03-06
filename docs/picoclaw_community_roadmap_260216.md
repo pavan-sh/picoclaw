@@ -63,19 +63,23 @@ Please include a brief introduction and any relevant experience or portfolio lin
 
 Interested in a specific feature? You can "claim" these tasks and start building:
 
-### 
-* **Provider:** 
-  * **Provider Refactor:** Currently being handled by **@Daming** (ETA: 5 days)
+### Areas
+
+* **Provider:**
+  * **Provider Refactor:** Currently being handled by **@Daming** (ETA: 5 days).
   * You can still submit code; Daming will merge it into the new implementation.
-* **Channels:** 
-  * Support for OneBot, additional platforms
-  * attachments (images, audio, video, files).
-* **Skills:** 
+
+* **Channels:**
+  * Support for OneBot and additional platforms.
+  * Attachments (images, audio, video, files).
+
+* **Skills:**
   * Implementing `find_skill` to discover tools via [ClawHub](https://clawhub.ai) and other platforms.
-* **Operations:** * MCP Support.
+
+* **Operations:**
+  * MCP support.
   * Android operations (e.g., botdrop).
   * Browser automation via CDP or ActionBook.
-
 
 * **Multi-Agent Ecosystem:**
   * **Basic Model-Agent**
@@ -83,9 +87,8 @@ Interested in a specific feature? You can "claim" these tasks and start building
   * **Swarm Mode.**
   * **AIEOS Integration.**
 
-
-* **Branding:** 
-  * **Logo**: We need a cute logo! We’re leaning toward a **Mantis Shrimp**—small, but packs a legendary punch!
+* **Branding:**
+  * **Logo:** We need a cute logo! We’re leaning toward a **Mantis Shrimp**—small, but packs a legendary punch!
 
 
 We have officially created these tasks as GitHub Issues, all marked with the roadmap tag.   
